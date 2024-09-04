@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joelmaybach
+- 👋 Hi, I’m @joelanarba
 - 👀 I’m interested in software development, full-stack web development, and tech innovations.
 - 🌱 I’m currently learning full-stack web development.
 - 💞️ I’m looking to collaborate on open-source projects, web applications, and innovative tech solutions.
